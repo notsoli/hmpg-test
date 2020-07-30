@@ -1,11 +1,7 @@
 {
   "name": "hmpg-test",
   "version": "0.1.0",
-  "description": "A simple project meant to test solutions for callback hell along with better error logging and handling",
-  "main": "app.js",
-  "scripts": {
-    "start":"node app.js"
-  },
+  "description": "Various tests for hmpg.io design changes",
   "author": "",
   "license": "ISC"
 }
